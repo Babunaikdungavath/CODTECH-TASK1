@@ -1,8 +1,13 @@
 Name: DUNGAVATH BABU NAIK
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT4SQL2577
+
 Domain: SQL
+
 Duration: June to July 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the Project:
